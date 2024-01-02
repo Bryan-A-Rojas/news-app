@@ -32,6 +32,7 @@ return [
     ],
 
     'the_guardian' => [
+        'url' => env('THE_GUARDIAN_URL'),
         'key' => env('THE_GUARDIAN_API_KEY'),
     ]
 
